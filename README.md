@@ -6,7 +6,7 @@ I am currently working as a Natural Language Processing Engineer at [**Alight So
 
 ### Things I'm good at :fire:
 
-**Domain:** Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Wrangling, and Data Visualization.
+**Domain:** Natural Language Processing, Machine Learning, Deep Learning, Data Science, Image Processing, Data Wrangling, and Data Visualization.
 
 **Languages:**  Python, R, SQL, Java.
 
