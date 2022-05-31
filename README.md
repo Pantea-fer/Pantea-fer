@@ -16,3 +16,4 @@ I am currently working as a Natural Language Processing Engineer at [**Alight So
 **Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods, Google Analytics.
 
 ### How to reach me 📱
+[**LinkedIn**](https://www.linkedin.com/in/pferdosi/)
